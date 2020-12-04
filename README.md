@@ -1,5 +1,5 @@
 <h2> Dagodiy <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/NxXY1r0/image-dd.png" alt="image-dd" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/NxXY1r0/image-dd.png" alt="image-dd" align="center" border="0"></a>
 
 <h3> 🤝🏻 A propos </h3>
 Dagodiy est une plateforme de Do-it-Yourself (DIY) participatif.
